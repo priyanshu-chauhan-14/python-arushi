@@ -1,0 +1,10 @@
+#program to allot block for barati's in gao ki shaadi 
+age=int(input("enter your age"))
+if age>=55:
+    print("umar daraz log kripya block A mai baithe")
+elif age>=18 and age<55:
+    print("apni jawani ka galat fayda nhi uthae chup chap block B mei baith jaaye")
+elif age<18 and age>=7:
+    print("shaitan ki dusri aulad zyada bakati nah kre block C mei baith jaaye")
+else:
+    print("apni aukaat mei rhe")

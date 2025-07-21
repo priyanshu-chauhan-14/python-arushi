@@ -1,0 +1,6 @@
+a=int(input("enter the length"))
+b=int(input("enter the breadth"))
+c=2*(a+b)
+print("the value of a is:",a)
+print("the value of b is:",b)
+print("the value of c is:",c)
